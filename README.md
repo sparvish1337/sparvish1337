@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 My current project is FiveCord<br>🤷‍♂️ I’m a 16 year old developer from Sweden
+🤷‍♂️ I’m a 16 year old developer from Sweden
 
 
 ## 🌐 Socials:
